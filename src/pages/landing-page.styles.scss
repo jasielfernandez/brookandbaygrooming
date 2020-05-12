@@ -12,10 +12,10 @@
 .row {
   height: 80vh;
 
+
   .column-one {
     background-color: rgba($color: #f5cac3, $alpha: 1.0);
     display: flex;
-    position: relative;
     align-items: center;
 
     .column-one-content {
@@ -35,14 +35,14 @@
       line-height: 100%;
       color: #28392F;
       align-items: center;
-      margin-left: 20px;
+      margin-left: 0px;
       margin-bottom: 20px;
       font-size: 400%;
     }
   }
 
   .column-two {
-    
+    border: 10px solid black;
     
     
   }
